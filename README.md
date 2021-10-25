@@ -1,5 +1,7 @@
 # 1-Wire Interface Soil Moisture sensor with EC and Temperature Measurement
 
+https://www.infwin.com/mt05s-1-wire-soil-moisture-ec-and-temperature-sensor/
+
 MT05S is 1-Wire soil moisture sensor, measuring soil moisture content, temperature and EC(Conductivity) according to the order information. It sealed with resin packaged plastic body with sensing rods which can be insert directly into the soil with long time stability. Sensor with relatively small size and can be used for pot culture and Seedling tray. The sensor is applicable for science research, irrigation, greenhouse, smart agriculture etc.
 
 ■ Integrated with Soil Moisture, temperature or with EC (Conductivity) measurement
