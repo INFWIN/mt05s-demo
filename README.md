@@ -24,4 +24,6 @@ MT05S is 1-Wire soil moisture sensor, measuring soil moisture content, temperatu
 
 ■ ODM/OEM Service
 
-![Alt text](https://www.infwin.com/wp-content/uploads/product-mt05s-analog-soil-moisture-sensor-index.jpg "MT05S 1-Wire Soil Moisture Sensor")
+![Alt text](https://www.infwin.com/wp-content/uploads/product-mt05s-onewire-soil-moisture-sensor-index1.jpg "MT05S 1-Wire Soil Moisture Sensor")
+
+![Alt text](https://www.infwin.com/wp-content/uploads/product-mt05s-onewire-soil-moisture-sensor-index.jpg "MT05S 1-Wire Soil Moisture Sensor")
