@@ -224,7 +224,7 @@ void loop(void) {
   ds.reset();//Send RESET
   ds.write(0xcc);//Send ROM Command-Skip ROM
   ds.write(0xb4);//Send Function command- Read Power Supply
-	if (ds.read_bit() == 0)
+  if (ds.read_bit() == 0)
   {
     Serial.print("Parasite Power");
   }
@@ -274,7 +274,7 @@ void loop(void) {
     delay(10);
     Serial.print(".");
   }
-	Serial.print("Done\n");
+  Serial.print("Done\n");
 
   //Read Scratchpad
   Serial.print("Read Scratchpad [0xBE]: ");
@@ -337,7 +337,7 @@ void loop(void) {
     delay(10);
     Serial.print(".");
   }
-	Serial.print("Done\n");
+  Serial.print("Done\n");
 
   //Read Scratchpad
   Serial.print("Read Scratchpad [0xBE]: ");
@@ -376,7 +376,7 @@ void loop(void) {
     delay(10);
     Serial.print(".");
   }
-	Serial.print("Conversion Done\n");
+  Serial.print("Conversion Done\n");
 
   Serial.print("Read Scratchpad [0xBE]: ");
   ds.reset();//Send RESET
@@ -444,7 +444,7 @@ void loop(void) {
     delay(10);
     Serial.print(".");
   }
-	Serial.print("Done");
+  Serial.print("Done");
   Serial.print("\n");
 
   Serial.print("Read Scratchpad : ");
